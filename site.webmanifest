@@ -1,0 +1,12 @@
+{
+  "name": "JD Infotech",
+  "short_name": "JD Infotech",
+  "description": "CCTV & smart security solutions in Ahmedabad, Gujarat",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#05070C",
+  "theme_color": "#05070C",
+  "icons": [
+    { "src": "/assets/img/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
